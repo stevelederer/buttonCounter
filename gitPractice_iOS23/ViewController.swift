@@ -12,6 +12,7 @@ class ViewController: UIViewController {
 
     @IBOutlet weak var counterLabel: UILabel!
     
+    var x = 10
     
     override func viewDidLoad() {
         super.viewDidLoad()
